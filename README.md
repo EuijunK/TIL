@@ -1,6 +1,6 @@
 # Today I learned
 
-## Markdown
-## [Git](markdown/markdown.md)
+## [Markdown](markdown/markdown.md)
+## Git
 ## Github
 ## Python?
